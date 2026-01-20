@@ -1,3 +1,4 @@
-## Hi there 👋
+## Hi there I am Vyron Arvanitis !
 
-[![Vyron's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyron-arvanitis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+I am an Msc student at the University of Munich (LMU) focusing on AI in Physics.
+
