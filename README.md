@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there I am Vyron Arvanitis !<br>I am an Msc student at the University of Munich (LMU) focusing on AI in Physics.<br>Currently rivisting data structures and algorithms but currently implementing my own simply machine<br>learning library in C++
+Hi there I am Vyron Arvanitis !<br>I am an Msc student at the University of Munich (LMU) focusing on AI in Physics.<br>
 
 
 # 💻 Tech Stack:
