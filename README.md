@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there I am Vyron Arvanitis !<br>I am an Msc student at the University of Munich (LMU) focusing on AI in Physics.<br>
+Hi there I am Vyron Arvanitis !<br>I am an Msc student at the University of Munich (LMU) focusing on AI in Physics.<br>As well as a software engineer at the German Aerospace Center(DLR).
 
 
 # 💻 Tech Stack:
