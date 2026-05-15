@@ -4,8 +4,8 @@ Hi there I am Vyron Arvanitis !<br>I am an Msc student at the University of Muni
 # 📄 Publications
 
 - **bde: A Python Package for Bayesian Deep Ensembles via MILE**  
-  arXiv:2605.14146  
-  https://arxiv.org/abs/2605.14146
+  Python package for uncertainty-aware deep learning using Bayesian Deep Ensembles and MILE.  
+  [arXiv:2605.14146](https://arxiv.org/abs/2605.14146)
 
 
 # 💻 Tech Stack:
